@@ -1,0 +1,58 @@
+ Albedo
+ Aloy
+ Amber
+Arataki_Itto
+ Barbara
+ Beidou
+Bennet
+Chongyun
+ Collei
+Diluc
+ Diona
+ Dori
+ Eula
+Fischl
+ Ganyu
+Gorou
+Hu_Tao
+ Jean
+ Kaedehara_Kazuha
+Kaeya
+Kamisato_Ayaka
+Kamisato_Ayato
+ Keqing
+Klee
+ Kujou_Sara
+ Kuki_Shinobu
+ Lisa
+ Mona
+ Ningguang
+Noelle
+ Qiqi
+ Raiden_Shogun
+ Razor
+Rosaria
+ Sangonomiya_Kokomi
+ Sayu
+Shenhe
+ Shikanoin_Heizou
+ Sucrose
+ Tartaglia
+ Thoma
+Tighnari
+traveler_Anemo
+traveler_Dendro
+ traveler_Electro
+traveler_Geo
+ Venti
+ Xiangling
+ Xiao
+Xingqiu
+ Xinyan
+Yae_Miko'
+ Yanfei
+ Yelan
+Yoimiya '
+ Yun_Jin
+ Zhongli
+
