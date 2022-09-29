@@ -4,9 +4,11 @@ import Amber from './img/Amber.png'
 import Arataki_Itto from './img/Arataki_Itto.png'
 import Barbara from './img/Barbara.png'
 import Beidou from './img/Beidou.png'
+import Candace from './img/Candace.png'
 import Bennet from './img/Bennett.png'
 import Chongyun from './img/Chongyun.png'
 import Collei from './img/Collei.png'
+import Cyno from './img/Cyno.png'
 import Diluc from './img/Diluc.png'
 import Diona from './img/Diona.png'
 import Dori from './img/Dori.png'
@@ -67,8 +69,10 @@ export const characterList = [
     { characterName: "Barbara", url: Barbara },
     { characterName: "Beidou ", url: Beidou },
     { characterName: "Bennet ", url: Bennet },
+    { characterName: "Candace ", url: Candace },
     { characterName: "Chongyun ", url: Chongyun },
     { characterName: "Collei", url: Collei },
+    { characterName: "Cyno", url: Cyno },
     { characterName: "Diluc", url: Diluc },
     { characterName: "Diona", url: Diona },
     { characterName: "Dori", url: Dori },
