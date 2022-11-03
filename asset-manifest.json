@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Genshin_Random_Generator/static/css/main.0ba152e2.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.8fa3e7d6.js",
+    "main.css": "/Genshin_Random_Generator/static/css/main.91aab227.css",
+    "main.js": "/Genshin_Random_Generator/static/js/main.0756634c.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -26,6 +26,7 @@
     "static/media/Yae_Miko.png": "/Genshin_Random_Generator/static/media/Yae_Miko.44d94f491c7fae7abf1c.png",
     "static/media/Fischl.png": "/Genshin_Random_Generator/static/media/Fischl.4118bca5a3fd44eafc6c.png",
     "static/media/Xiao.png": "/Genshin_Random_Generator/static/media/Xiao.b061bb6f7fa1bd186d17.png",
+    "static/media/Nahida.png": "/Genshin_Random_Generator/static/media/Nahida.6cc78ccdaed239436bb3.png",
     "static/media/Keqing.png": "/Genshin_Random_Generator/static/media/Keqing.c034b1ae0f2a09c4148b.png",
     "static/media/Sangonomiya_Kokomi.png": "/Genshin_Random_Generator/static/media/Sangonomiya_Kokomi.56171a5858a4a63ac8c6.png",
     "static/media/Bennett.png": "/Genshin_Random_Generator/static/media/Bennett.965f77e57b51c7d6309d.png",
@@ -66,12 +67,12 @@
     "static/media/Sayu.png": "/Genshin_Random_Generator/static/media/Sayu.e0c6ac7a0203bf9861df.png",
     "static/media/Xiangling.png": "/Genshin_Random_Generator/static/media/Xiangling.ce22d3fc6c60d775b4b1.png",
     "index.html": "/Genshin_Random_Generator/index.html",
-    "main.0ba152e2.css.map": "/Genshin_Random_Generator/static/css/main.0ba152e2.css.map",
-    "main.8fa3e7d6.js.map": "/Genshin_Random_Generator/static/js/main.8fa3e7d6.js.map",
+    "main.91aab227.css.map": "/Genshin_Random_Generator/static/css/main.91aab227.css.map",
+    "main.0756634c.js.map": "/Genshin_Random_Generator/static/js/main.0756634c.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba152e2.css",
-    "static/js/main.8fa3e7d6.js"
+    "static/css/main.91aab227.css",
+    "static/js/main.0756634c.js"
   ]
 }
