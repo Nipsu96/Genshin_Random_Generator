@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Genshin_Random_Generator/static/css/main.91aab227.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.3d269c5a.js",
+    "main.js": "/Genshin_Random_Generator/static/js/main.7ef0e4e1.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -44,6 +44,7 @@
     "static/media/Hu_Tao.png": "/Genshin_Random_Generator/static/media/Hu_Tao.79620b87c10200692a70.png",
     "static/media/Tartaglia.png": "/Genshin_Random_Generator/static/media/Tartaglia.da7c71dcfb38c2a9bf0d.png",
     "static/media/Sucrose.png": "/Genshin_Random_Generator/static/media/Sucrose.901f24d6ef962d596272.png",
+    "static/media/Layla.png": "/Genshin_Random_Generator/static/media/Layla.0e7f397d86ef0fe10ec0.png",
     "static/media/Yanfei.png": "/Genshin_Random_Generator/static/media/Yanfei.9f28e9e184917e7f31bc.png",
     "static/media/Collei.png": "/Genshin_Random_Generator/static/media/Collei.e3e633084c4d8930490c.png",
     "static/media/Yun_Jin.png": "/Genshin_Random_Generator/static/media/Yun_Jin.dc6ed92db8b461928d32.png",
@@ -68,11 +69,11 @@
     "static/media/Xiangling.png": "/Genshin_Random_Generator/static/media/Xiangling.ce22d3fc6c60d775b4b1.png",
     "index.html": "/Genshin_Random_Generator/index.html",
     "main.91aab227.css.map": "/Genshin_Random_Generator/static/css/main.91aab227.css.map",
-    "main.3d269c5a.js.map": "/Genshin_Random_Generator/static/js/main.3d269c5a.js.map",
+    "main.7ef0e4e1.js.map": "/Genshin_Random_Generator/static/js/main.7ef0e4e1.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91aab227.css",
-    "static/js/main.3d269c5a.js"
+    "static/js/main.7ef0e4e1.js"
   ]
 }
