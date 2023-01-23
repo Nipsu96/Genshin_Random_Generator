@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Genshin_Random_Generator/static/css/main.91aab227.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.b0956b26.js",
+    "main.js": "/Genshin_Random_Generator/static/js/main.429d75d1.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -54,6 +54,7 @@
     "static/media/Raiden_Shogun.png": "/Genshin_Random_Generator/static/media/Raiden_Shogun.f480aa319095db916b33.png",
     "static/media/Noelle.png": "/Genshin_Random_Generator/static/media/Noelle.9a70a62aed0d95cfa576.png",
     "static/media/Jean.png": "/Genshin_Random_Generator/static/media/Jean.0bb0fef113b8aeaa2910.png",
+    "static/media/Alhaitham.png": "/Genshin_Random_Generator/static/media/Alhaitham.4fe5267e73031a27826c.png",
     "static/media/Thoma.png": "/Genshin_Random_Generator/static/media/Thoma.72f104f79a36f0dda4e1.png",
     "static/media/Barbara.png": "/Genshin_Random_Generator/static/media/Barbara.a5faa330933675102bf2.png",
     "static/media/Klee.png": "/Genshin_Random_Generator/static/media/Klee.d2cf7f0909550dbd3ad3.png",
@@ -64,6 +65,7 @@
     "static/media/Dori.png": "/Genshin_Random_Generator/static/media/Dori.51b2ce06a62b39a4d634.png",
     "static/media/Kuki_Shinobu.png": "/Genshin_Random_Generator/static/media/Kuki_Shinobu.dfdb16cc3f789453bb26.png",
     "static/media/Kujou_Sara.png": "/Genshin_Random_Generator/static/media/Kujou_Sara.78f6a24b1f74026aa9bc.png",
+    "static/media/Yaoyao.png": "/Genshin_Random_Generator/static/media/Yaoyao.604f1ab4ca0a9852f6ad.png",
     "static/media/Faruzan.png": "/Genshin_Random_Generator/static/media/Faruzan.5b1ba3a85c4cdc9dd4a7.png",
     "static/media/Kaedehara_Kazuha.png": "/Genshin_Random_Generator/static/media/Kaedehara_Kazuha.ff48a5fff988c5361315.png",
     "static/media/Kaeya.png": "/Genshin_Random_Generator/static/media/Kaeya.504b4091ecc1c06b31b9.png",
@@ -71,11 +73,11 @@
     "static/media/Xiangling.png": "/Genshin_Random_Generator/static/media/Xiangling.ce22d3fc6c60d775b4b1.png",
     "index.html": "/Genshin_Random_Generator/index.html",
     "main.91aab227.css.map": "/Genshin_Random_Generator/static/css/main.91aab227.css.map",
-    "main.b0956b26.js.map": "/Genshin_Random_Generator/static/js/main.b0956b26.js.map",
+    "main.429d75d1.js.map": "/Genshin_Random_Generator/static/js/main.429d75d1.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91aab227.css",
-    "static/js/main.b0956b26.js"
+    "static/js/main.429d75d1.js"
   ]
 }
