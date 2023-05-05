@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Genshin_Random_Generator/static/css/main.66f6f572.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.13d9cb99.js",
+    "main.js": "/Genshin_Random_Generator/static/js/main.bfab136e.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -29,6 +29,7 @@
     "static/media/Fischl.png": "/Genshin_Random_Generator/static/media/Fischl.4118bca5a3fd44eafc6c.png",
     "static/media/Xiao.png": "/Genshin_Random_Generator/static/media/Xiao.b061bb6f7fa1bd186d17.png",
     "static/media/Nahida.png": "/Genshin_Random_Generator/static/media/Nahida.6cc78ccdaed239436bb3.png",
+    "static/media/Mika.png": "/Genshin_Random_Generator/static/media/Mika.995107054312c294a062.png",
     "static/media/Keqing.png": "/Genshin_Random_Generator/static/media/Keqing.c034b1ae0f2a09c4148b.png",
     "static/media/Sangonomiya_Kokomi.png": "/Genshin_Random_Generator/static/media/Sangonomiya_Kokomi.56171a5858a4a63ac8c6.png",
     "static/media/Bennett.png": "/Genshin_Random_Generator/static/media/Bennett.965f77e57b51c7d6309d.png",
@@ -107,11 +108,11 @@
     "static/media/pyro_kuutio.png": "/Genshin_Random_Generator/static/media/pyro_kuutio.c813e0fe6c3dddd6750e.png",
     "index.html": "/Genshin_Random_Generator/index.html",
     "main.66f6f572.css.map": "/Genshin_Random_Generator/static/css/main.66f6f572.css.map",
-    "main.13d9cb99.js.map": "/Genshin_Random_Generator/static/js/main.13d9cb99.js.map",
+    "main.bfab136e.js.map": "/Genshin_Random_Generator/static/js/main.bfab136e.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66f6f572.css",
-    "static/js/main.13d9cb99.js"
+    "static/js/main.bfab136e.js"
   ]
 }
