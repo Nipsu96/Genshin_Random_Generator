@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Genshin_Random_Generator/static/css/main.66f6f572.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.bfab136e.js",
+    "main.js": "/Genshin_Random_Generator/static/js/main.34a58170.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -26,11 +26,13 @@
     "static/media/Qiqi.png": "/Genshin_Random_Generator/static/media/Qiqi.a9944fddcf03afe98f6f.png",
     "static/media/Mona.png": "/Genshin_Random_Generator/static/media/Mona.7d5df604430b92332807.png",
     "static/media/Yae_Miko.png": "/Genshin_Random_Generator/static/media/Yae_Miko.44d94f491c7fae7abf1c.png",
+    "static/media/Lyney.png": "/Genshin_Random_Generator/static/media/Lyney.85d80ee8b8fed27cc233.png",
     "static/media/Fischl.png": "/Genshin_Random_Generator/static/media/Fischl.4118bca5a3fd44eafc6c.png",
     "static/media/Xiao.png": "/Genshin_Random_Generator/static/media/Xiao.b061bb6f7fa1bd186d17.png",
     "static/media/Nahida.png": "/Genshin_Random_Generator/static/media/Nahida.6cc78ccdaed239436bb3.png",
     "static/media/Mika.png": "/Genshin_Random_Generator/static/media/Mika.995107054312c294a062.png",
     "static/media/Keqing.png": "/Genshin_Random_Generator/static/media/Keqing.c034b1ae0f2a09c4148b.png",
+    "static/media/Kirara.png": "/Genshin_Random_Generator/static/media/Kirara.2883664087d1715c5a75.png",
     "static/media/Sangonomiya_Kokomi.png": "/Genshin_Random_Generator/static/media/Sangonomiya_Kokomi.56171a5858a4a63ac8c6.png",
     "static/media/Bennett.png": "/Genshin_Random_Generator/static/media/Bennett.965f77e57b51c7d6309d.png",
     "static/media/Cyno.png": "/Genshin_Random_Generator/static/media/Cyno.23e55323fa9570008484.png",
@@ -62,6 +64,7 @@
     "static/media/Thoma.png": "/Genshin_Random_Generator/static/media/Thoma.72f104f79a36f0dda4e1.png",
     "static/media/Barbara.png": "/Genshin_Random_Generator/static/media/Barbara.a5faa330933675102bf2.png",
     "static/media/Klee.png": "/Genshin_Random_Generator/static/media/Klee.d2cf7f0909550dbd3ad3.png",
+    "static/media/Lynette.png": "/Genshin_Random_Generator/static/media/Lynette.eb9d22595649e2bf12b3.png",
     "static/media/Xingqiu.png": "/Genshin_Random_Generator/static/media/Xingqiu.95a9475c63d9b8a520bd.png",
     "static/media/Gorou.png": "/Genshin_Random_Generator/static/media/Gorou.2f9f80cc04dd13e0c1cc.png",
     "static/media/Ningguang.png": "/Genshin_Random_Generator/static/media/Ningguang.3ebb8d99df6f87aa48cb.png",
@@ -79,12 +82,14 @@
     "static/media/aeonblight_drake.png": "/Genshin_Random_Generator/static/media/aeonblight_drake.808937f6d84e03b41739.png",
     "static/media/koira.png": "/Genshin_Random_Generator/static/media/koira.9554878c9338a749fa91.png",
     "static/media/maguu_kenki.png": "/Genshin_Random_Generator/static/media/maguu_kenki.fe0f0f17ed33b0e8fe86.png",
+    "static/media/Emperor_of_Fire_and_Iron.png": "/Genshin_Random_Generator/static/media/Emperor_of_Fire_and_Iron.724ef754b9aabbcb40ed.png",
     "static/media/cryo_kukka.png": "/Genshin_Random_Generator/static/media/cryo_kukka.8023e8107d487c43896d.png",
     "static/media/Guardian_of_Apeps_Oasis.png": "/Genshin_Random_Generator/static/media/Guardian_of_Apeps_Oasis.aba05ffa35a9fa8689b5.png",
     "static/media/pyro_kukka.png": "/Genshin_Random_Generator/static/media/pyro_kukka.e3a21aea9a659007f81c.png",
     "static/media/Andrius.png": "/Genshin_Random_Generator/static/media/Andrius.d9507b9d01ee102a4ad4.png",
     "static/media/kaksoset.png": "/Genshin_Random_Generator/static/media/kaksoset.67d6945f4250c074fab5.png",
     "static/media/sumeru_robotti_kolmio.png": "/Genshin_Random_Generator/static/media/sumeru_robotti_kolmio.88431534cb335ab76d8f.png",
+    "static/media/icewind_suite.png": "/Genshin_Random_Generator/static/media/icewind_suite.d6d988070067ca005bab.png",
     "static/media/inazuma_robotti.png": "/Genshin_Random_Generator/static/media/inazuma_robotti.f39d189df0c6c2d93489.png",
     "static/media/oceanid.png": "/Genshin_Random_Generator/static/media/oceanid.bf8c5f4c53d8f0b7250f.png",
     "static/media/signora.png": "/Genshin_Random_Generator/static/media/signora.aa927572e56b281aab0d.png",
@@ -108,11 +113,11 @@
     "static/media/pyro_kuutio.png": "/Genshin_Random_Generator/static/media/pyro_kuutio.c813e0fe6c3dddd6750e.png",
     "index.html": "/Genshin_Random_Generator/index.html",
     "main.66f6f572.css.map": "/Genshin_Random_Generator/static/css/main.66f6f572.css.map",
-    "main.bfab136e.js.map": "/Genshin_Random_Generator/static/js/main.bfab136e.js.map",
+    "main.34a58170.js.map": "/Genshin_Random_Generator/static/js/main.34a58170.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66f6f572.css",
-    "static/js/main.bfab136e.js"
+    "static/js/main.34a58170.js"
   ]
 }
