@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Genshin_Random_Generator/static/css/main.66f6f572.css",
-    "main.js": "/Genshin_Random_Generator/static/js/main.5535b171.js",
+    "main.js": "/Genshin_Random_Generator/static/js/main.dcfafe48.js",
     "static/js/787.fc3ac7da.chunk.js": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js",
     "static/media/inazuma_backgroun.png": "/Genshin_Random_Generator/static/media/inazuma_backgroun.28defc88c120f792eac4.png",
     "static/media/Albedo.png": "/Genshin_Random_Generator/static/media/Albedo.9a52b284105285beb596.png",
@@ -15,9 +15,11 @@
     "static/media/traveler(Dendro).png": "/Genshin_Random_Generator/static/media/traveler(Dendro).24d6bf9b2c6c6009e0f4.png",
     "static/media/traveler(Electro).png": "/Genshin_Random_Generator/static/media/traveler(Electro).cad7cace2274b92ed14a.png",
     "static/media/traveler(Anemo).png": "/Genshin_Random_Generator/static/media/traveler(Anemo).65c0b859602028206d6f.png",
+    "static/media/Neuvillette.png": "/Genshin_Random_Generator/static/media/Neuvillette.4815f5866c127e9b978a.png",
     "static/media/Yelan.png": "/Genshin_Random_Generator/static/media/Yelan.521a4e0469abed8504bf.png",
     "static/media/Nilou.png": "/Genshin_Random_Generator/static/media/Nilou.32296011e3f03866374b.png",
     "static/media/Tighnari.png": "/Genshin_Random_Generator/static/media/Tighnari.96b69865dec2f05606b1.png",
+    "static/media/Freminet.png": "/Genshin_Random_Generator/static/media/Freminet.02b5e929ff67177d59d1.png",
     "static/media/Kamisato_Ayaka.png": "/Genshin_Random_Generator/static/media/Kamisato_Ayaka.875323631b5b987f8f1d.png",
     "static/media/Kaveh.png": "/Genshin_Random_Generator/static/media/Kaveh.639eaa515360abe2a21a.png",
     "static/media/Baizhu.png": "/Genshin_Random_Generator/static/media/Baizhu.6c64d79172d38689e088.png",
@@ -116,11 +118,11 @@
     "static/media/pyro_kuutio.png": "/Genshin_Random_Generator/static/media/pyro_kuutio.c813e0fe6c3dddd6750e.png",
     "index.html": "/Genshin_Random_Generator/index.html",
     "main.66f6f572.css.map": "/Genshin_Random_Generator/static/css/main.66f6f572.css.map",
-    "main.5535b171.js.map": "/Genshin_Random_Generator/static/js/main.5535b171.js.map",
+    "main.dcfafe48.js.map": "/Genshin_Random_Generator/static/js/main.dcfafe48.js.map",
     "787.fc3ac7da.chunk.js.map": "/Genshin_Random_Generator/static/js/787.fc3ac7da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66f6f572.css",
-    "static/js/main.5535b171.js"
+    "static/js/main.dcfafe48.js"
   ]
 }
