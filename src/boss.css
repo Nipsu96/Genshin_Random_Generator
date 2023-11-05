@@ -1,0 +1,29 @@
+#content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.boss,
+.active {
+  margin: 30px;
+  padding: 7px;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+}
+
+.active {
+  background-color: #666;
+  color: white;
+}
+
+.buttonHolder {
+  background-color: aliceblue;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  padding: 15px;
+  border-radius: 10px;
+  width: 40vw;
+  text-align: center;
+}
