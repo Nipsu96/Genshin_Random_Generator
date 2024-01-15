@@ -12,6 +12,7 @@ import Emperor_of_Fire_and_Iron from './img/bosses/Emperor_of_Fire_and_Iron.png'
 import Experimental_field_Generator from './img/bosses/experimental_field_generator.png'
 import Geo_kuutio from './img/bosses/geo_kuutio.png'
 import Hydro_kuutio from './img/bosses/hydro_kuutio.png'
+import Hydro_Tulpa from './img/bosses/Hydro_tulpa.png'
 import Heppa from './img/bosses/heppa.png'
 import Inazuma_robotti from './img/bosses/inazuma_robotti.png'
 import icewind_suite from './img/bosses/icewind_suite.png'
@@ -37,6 +38,7 @@ import Koira from './img/bosses/weekly/koira.png'
 import Raiden from './img/bosses/weekly/raiden.png'
 import Scara from './img/bosses/weekly/scara.png'
 import Signora from './img/bosses/weekly/signora.png'
+import Valas from './img/bosses/weekly/valas.png'
 
 
 export const bossList = [
@@ -52,6 +54,7 @@ export const bossList = [
     { bossName: "Experimental Field Generator", url: Experimental_field_Generator },
     { bossName: "Geo-kuutio", url: Geo_kuutio },
     { bossName: "Hydro-kuutio", url: Hydro_kuutio },
+    { bossName: "Hydro Tulpa", url: Hydro_Tulpa },
     { bossName: "Heppa", url: Heppa },
     { bossName: "Icewind suite", url:icewind_suite},
     { bossName: "Robotti kuutio", url: Inazuma_robotti },
@@ -78,6 +81,7 @@ export const weekly = [
     { bossName: "Raiden", url: Raiden },
     { bossName: "Scara", url: Scara },
     { bossName: "Signora", url: Signora },
+    { bossName: "Valas", url: Valas },
 
 ]
 

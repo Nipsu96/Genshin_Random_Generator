@@ -8,6 +8,8 @@ import Barbara from './img/Barbara.png'
 import Beidou from './img/Beidou.png'
 import Bennet from './img/Bennett.png'
 import Candace from './img/Candace.png'
+import Charlotte from './img/Charlotte.png'
+import Chevreuse from './img/Chevreuse.png'
 import Chongyun from './img/Chongyun.png'
 import Collei from './img/Collei.png'
 import Cyno from './img/Cyno.png'
@@ -19,6 +21,7 @@ import Eula from './img/Eula.png'
 import Faruzan from './img/Faruzan.png'
 import Fischl from './img/Fischl.png'
 import Freminet from './img/Freminet.png'
+import Furina from './img/Furina.png'
 import Ganyu from './img/Ganyu.png'
 import Gorou from './img/Gorou.png'
 import Hu_Tao from './img/Hu_Tao.png'
@@ -40,6 +43,7 @@ import Lyney from './img/Lyney.png'
 import Mika from './img/Mika.png'
 import Mona from './img/Mona.png'
 import Nahida from './img/Nahida.png'
+import Navia from './img/Navia.png'
 import Neuvillette from './img/Neuvillette.png'
 import Nilou from './img/Nilou.png'
 import Ningguang from './img/Ningguang.png'
@@ -63,6 +67,7 @@ import traveler_Geo from './img/traveler(Geo).png'
 import traveler_Hydro from './img/traveler(Hydro).png'
 import Venti from './img/Venti.png'
 import Wanderer from './img/Wanderer.png'
+import Wriothesley from './img/Wriothesley.png'
 import Xiangling from './img/Xiangling.png'
 import Xiao from './img/Xiao.png'
 import Xingqiu from './img/Xingqiu.png'
@@ -87,6 +92,8 @@ export const characterList = [
     { characterName: "Beidou ", url: Beidou },
     { characterName: "Bennet ", url: Bennet },
     { characterName: "Candace ", url: Candace },
+    { characterName: "Charlotte ", url: Charlotte },
+    { characterName: "Chevreuse ", url: Chevreuse },
     { characterName: "Chongyun ", url: Chongyun },
     { characterName: "Collei", url: Collei },
     { characterName: "Cyno", url: Cyno },
@@ -98,6 +105,7 @@ export const characterList = [
     { characterName: "Faruzan", url: Faruzan },
     { characterName: "Fischl", url: Fischl },
     { characterName: "Freminet", url: Freminet },
+    { characterName: "Furina ", url: Furina },
     { characterName: "Ganyu", url: Ganyu },
     { characterName: "Gorou", url: Gorou },
     { characterName: "Hu Tao", url: Hu_Tao },
@@ -119,6 +127,7 @@ export const characterList = [
     { characterName: "Mika", url: Mika },
     { characterName: "Mona", url: Mona },
     { characterName: "Nahida", url: Nahida },
+    { characterName: "Navia ", url: Navia },
     { characterName: "Neuvillette", url: Neuvillette },
     { characterName: "Nilou", url: Nilou },
     { characterName: "Ningguang", url: Ningguang },
@@ -142,6 +151,7 @@ export const characterList = [
     { characterName: "Traveler(Hydro)", url: traveler_Hydro },
     { characterName: "Venti", url: Venti },
     { characterName: "Wanderer", url: Wanderer },
+    { characterName: "Wriothesley ", url: Wriothesley },
     { characterName: "Xiangling", url: Xiangling },
     { characterName: "Xiao", url: Xiao },
     { characterName: "Xingqiu", url: Xingqiu },
