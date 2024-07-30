@@ -26,8 +26,10 @@ import Pyro_kukka from './img/bosses/pyro_kukka.png'
 import Pyro_kuutio from './img/bosses/pyro_kuutio.png'
 import Ruin_serpent from './img/bosses/ruin_serpent.png'
 import Setekh_wenut from './img/bosses/setekh_wenut.png'
+import Solitary_Suanni from './img/bosses/Solitary_Suanni.png'
 import Sumeru_robotti_kolmio from './img/bosses/sumeru_robotti_kolmio.png'
 import Thunder_manifestation from './img/bosses/thunder_manifestation.png'
+import Legatus_Golem from './img/bosses/Legatus_Golem.png'
 
 // weeklybossit
 import Andrius from './img/bosses/weekly/Andrius.png'
@@ -39,6 +41,7 @@ import Raiden from './img/bosses/weekly/raiden.png'
 import Scara from './img/bosses/weekly/scara.png'
 import Signora from './img/bosses/weekly/signora.png'
 import Valas from './img/bosses/weekly/valas.png'
+import Father from './img/bosses/weekly/Father.png'
 
 
 export const bossList = [
@@ -56,7 +59,7 @@ export const bossList = [
     { bossName: "Hydro-kuutio", url: Hydro_kuutio },
     { bossName: "Hydro Tulpa", url: Hydro_Tulpa },
     { bossName: "Heppa", url: Heppa },
-    { bossName: "Icewind suite", url:icewind_suite},
+    { bossName: "Icewind suite", url: icewind_suite },
     { bossName: "Robotti kuutio", url: Inazuma_robotti },
     { bossName: "Kaksoset", url: Kaksoset },
     { bossName: "Dendro- kana", url: Dendro_kana },
@@ -70,6 +73,8 @@ export const bossList = [
     { bossName: "Mato 2.0", url: Setekh_wenut },
     { bossName: "Kolmio ", url: Sumeru_robotti_kolmio },
     { bossName: "Sähkö paska", url: Thunder_manifestation },
+    { bossName: "Solitary Suanni", url: Solitary_Suanni },
+    { bossName: "Legatus Golem", url: Legatus_Golem },
 
 ]
 export const weekly = [
@@ -82,6 +87,7 @@ export const weekly = [
     { bossName: "Scara", url: Scara },
     { bossName: "Signora", url: Signora },
     { bossName: "Valas", url: Valas },
+    { bossName: "Father", url: Father },
 
 ]
 

@@ -3,6 +3,7 @@ import Alhaitham from './img/Alhaitham.png'
 import Aloy from './img/Aloy.png'
 import Amber from './img/Amber.png'
 import Arataki_Itto from './img/Arataki_Itto.png'
+import Arlecchino from './img/Arlecchino.png'
 import Baizhu from './img/Baizhu.png'
 import Barbara from './img/Barbara.png'
 import Beidou from './img/Beidou.png'
@@ -10,7 +11,9 @@ import Bennet from './img/Bennett.png'
 import Candace from './img/Candace.png'
 import Charlotte from './img/Charlotte.png'
 import Chevreuse from './img/Chevreuse.png'
+import Chiori from './img/Chiori.png'
 import Chongyun from './img/Chongyun.png'
+import Clorinde from './img/Clorinde.png'
 import Collei from './img/Collei.png'
 import Cyno from './img/Cyno.png'
 import Dehya from './img/Dehya.png'
@@ -22,6 +25,7 @@ import Faruzan from './img/Faruzan.png'
 import Fischl from './img/Fischl.png'
 import Freminet from './img/Freminet.png'
 import Furina from './img/Furina.png'
+import Gaming from './img/Gaming.png'
 import Ganyu from './img/Ganyu.png'
 import Gorou from './img/Gorou.png'
 import Hu_Tao from './img/Hu_Tao.png'
@@ -54,8 +58,10 @@ import Razor from './img/Razor.png'
 import Rosaria from './img/Rosaria.png'
 import Sangonomiya_Kokomi from './img/Sangonomiya_Kokomi.png'
 import Sayu from './img/Sayu.png'
+import Sethos from './img/Sethos.png'
 import Shenhe from './img/Shenhe.png'
 import Shikanoin_Heizou from './img/Shikanoin_Heizou.png'
+import Sigewinne from './img/Sigewinne.png'
 import Sucrose from './img/Sucrose.png'
 import Tartaglia from './img/Tartaglia.png'
 import Thoma from './img/Thoma.png'
@@ -69,6 +75,7 @@ import Venti from './img/Venti.png'
 import Wanderer from './img/Wanderer.png'
 import Wriothesley from './img/Wriothesley.png'
 import Xiangling from './img/Xiangling.png'
+import Xianyun from './img/Xianyun.png'
 import Xiao from './img/Xiao.png'
 import Xingqiu from './img/Xingqiu.png'
 import Xinyan from './img/Xinyan.png'
@@ -87,6 +94,7 @@ export const characterList = [
     { characterName: "Aloy", url: Aloy },
     { characterName: "Amber", url: Amber },
     { characterName: "Arataki Itto", url: Arataki_Itto },
+    { characterName: "Arlecchino", url: Arlecchino },
     { characterName: "Baizhu", url: Baizhu },
     { characterName: "Barbara", url: Barbara },
     { characterName: "Beidou ", url: Beidou },
@@ -94,7 +102,9 @@ export const characterList = [
     { characterName: "Candace ", url: Candace },
     { characterName: "Charlotte ", url: Charlotte },
     { characterName: "Chevreuse ", url: Chevreuse },
+    { characterName: "Chiori", url: Chiori },
     { characterName: "Chongyun ", url: Chongyun },
+    { characterName: "Clorinde", url: Clorinde },
     { characterName: "Collei", url: Collei },
     { characterName: "Cyno", url: Cyno },
     { characterName: "Dehya", url: Dehya },
@@ -106,6 +116,7 @@ export const characterList = [
     { characterName: "Fischl", url: Fischl },
     { characterName: "Freminet", url: Freminet },
     { characterName: "Furina ", url: Furina },
+    { characterName: "Gaming", url: Gaming },
     { characterName: "Ganyu", url: Ganyu },
     { characterName: "Gorou", url: Gorou },
     { characterName: "Hu Tao", url: Hu_Tao },
@@ -138,8 +149,10 @@ export const characterList = [
     { characterName: "Rosaria", url: Rosaria },
     { characterName: "Sangonomiya Kokomi", url: Sangonomiya_Kokomi },
     { characterName: "Sayu", url: Sayu },
+    { characterName: "Sethos", url: Sethos },
     { characterName: "Shenhe", url: Shenhe },
     { characterName: "Shikanoin Heizou", url: Shikanoin_Heizou },
+    { characterName: "Sigewinne", url: Sigewinne },
     { characterName: "Sucrose", url: Sucrose },
     { characterName: "Tartaglia", url: Tartaglia },
     { characterName: "Thoma", url: Thoma },
@@ -153,6 +166,7 @@ export const characterList = [
     { characterName: "Wanderer", url: Wanderer },
     { characterName: "Wriothesley ", url: Wriothesley },
     { characterName: "Xiangling", url: Xiangling },
+    { characterName: "Xianyun", url: Xianyun },
     { characterName: "Xiao", url: Xiao },
     { characterName: "Xingqiu", url: Xingqiu },
     { characterName: "Xinyan", url: Xinyan },
